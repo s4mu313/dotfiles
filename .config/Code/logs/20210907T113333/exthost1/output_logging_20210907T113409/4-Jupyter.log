@@ -1,0 +1,17 @@
+Info 2021-09-07 11:34:09: ZMQ install verified.
+Error 2021-09-07 11:34:09: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/samu/CodeGen/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/samu/CodeGen/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension.js:90:362426)
+	at async g.fixSettingsFile (/home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension.js:52:320650)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension.js:52:322370)] {
+  code: 'FileNotFound'
+}
+Info 2021-09-07 11:34:27: Shutting down notebooks for 0487ce1e-71dd-4b67-93a2-91112f4d22bd
+Info 2021-09-07 11:34:27: Disposing HostJupyterExecution f55ad662-5e41-4473-bca5-8a5594a07270
+Info 2021-09-07 11:34:27: Disposing super HostJupyterExecution f55ad662-5e41-4473-bca5-8a5594a07270
+Info 2021-09-07 11:34:27: Disposing HostJupyterExecution f55ad662-5e41-4473-bca5-8a5594a07270
+Info 2021-09-07 11:34:27: Finished disposing HostJupyterExecution  f55ad662-5e41-4473-bca5-8a5594a07270
+Info 2021-09-07 11:34:27: Cleaning up server cache f55ad662-5e41-4473-bca5-8a5594a07270
+Info 2021-09-07 11:34:27: Finished disposing HostJupyterExecution  f55ad662-5e41-4473-bca5-8a5594a07270

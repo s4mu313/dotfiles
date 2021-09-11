@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontFamily": "SFMono Nerd Font Mono, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Nord",
+    "window.zoomLevel": 2
+}

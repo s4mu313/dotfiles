@@ -1,0 +1,30 @@
+[2021-09-07 11:33:44.100] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-07 11:33:44.102] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210905T143425'
+[2021-09-07 11:34:01.678] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-07 11:34:03.469] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-09-07 11:34:03.469] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-09-07 11:34:03.469] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-07 11:34:04.092] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-07 11:34:04.092] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-07 11:34:04.093] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1630960821213.
+[2021-09-07 11:34:04.153] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/samu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-07 11:34:04.174] [sharedprocess] [info] Extracted extension to /home/samu/.vscode/extensions/.41bdf8e4-3e83-4612-9e8d-6d31ddd77af6: ms-toolsai.jupyter-keymap
+[2021-09-07 11:34:04.177] [sharedprocess] [info] Renamed to /home/samu/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-07 11:34:04.178] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-09-07 11:34:04.367] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/samu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2031190714
+[2021-09-07 11:34:04.692] [sharedprocess] [info] Downloaded extension: ms-python.python /home/samu/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1191016588
+[2021-09-07 11:34:04.896] [sharedprocess] [info] Extracted extension to /home/samu/.vscode/extensions/.57f92fda-7ada-4969-92e5-3a19a386bcaf: ms-toolsai.jupyter
+[2021-09-07 11:34:04.904] [sharedprocess] [info] Renamed to /home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714
+[2021-09-07 11:34:04.906] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-09-07 11:34:06.515] [sharedprocess] [info] Extracted extension to /home/samu/.vscode/extensions/.47875713-b5cd-4e6d-8918-4ad9d9798978: ms-python.python
+[2021-09-07 11:34:06.528] [sharedprocess] [info] Renamed to /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588
+[2021-09-07 11:34:06.529] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-07 11:34:07.653] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/samu/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.0
+[2021-09-07 11:34:09.068] [sharedprocess] [info] Extracted extension to /home/samu/.vscode/extensions/.e25454c4-a280-4129-8774-c98dd1a2c6c7: ms-python.vscode-pylance
+[2021-09-07 11:34:09.079] [sharedprocess] [info] Renamed to /home/samu/.vscode/extensions/ms-python.vscode-pylance-2021.9.0
+[2021-09-07 11:34:09.080] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-07 11:34:09.085] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-09-07 11:34:09.085] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-09-07 11:34:09.086] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-07 11:34:09.086] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-07 11:34:14.093] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

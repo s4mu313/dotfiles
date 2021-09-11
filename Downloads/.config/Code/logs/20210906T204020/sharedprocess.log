@@ -1,0 +1,8 @@
+[2021-09-06 20:40:31.864] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-06 20:40:31.865] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210905T143000'
+[2021-09-06 20:40:51.858] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-06 20:40:51.858] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-06 20:40:51.859] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1630882984791.
+[2021-09-06 20:40:51.859] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1630960272433.
+[2021-09-06 20:40:51.859] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1630960730165.
+[2021-09-06 20:41:01.858] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

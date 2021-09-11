@@ -1,0 +1,1507 @@
+[2021-09-07 11:33:34.289] [exthost] [info] extension host started
+[2021-09-07 11:33:34.289] [exthost] [info] Skipping acquiring lock for /home/samu/.config/Code/User/workspaceStorage/a5686233c6139848ea666ffb92db71f3.
+[2021-09-07 11:33:34.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-07 11:33:34.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-07 11:33:34.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-07 11:33:34.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-07 11:33:34.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 11:33:34.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-07 11:33:34.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 11:33:34.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-07 11:33:34.821] [exthost] [info] eager extensions activated
+[2021-09-07 11:33:34.838] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-07 11:33:34.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-07 11:33:34.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-07 11:33:34.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-07 11:33:34.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-07 11:33:34.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-07 11:33:34.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-07 11:33:34.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-07 11:34:09.288] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:09.288] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension
+[2021-09-07 11:34:09.429] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:09.429] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension
+[2021-09-07 11:34:09.908] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:09.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.vscode-pylance-2021.9.0/dist/extension.bundle.js
+[2021-09-07 11:34:27.575] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-07 11:34:28.585] [exthost] [info] exiting with code 0
+[2021-09-07 11:34:28.766] [exthost] [info] extension host started
+[2021-09-07 11:34:28.766] [exthost] [info] Skipping acquiring lock for /home/samu/.config/Code/User/workspaceStorage/a5686233c6139848ea666ffb92db71f3.
+[2021-09-07 11:34:28.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-07 11:34:28.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-07 11:34:28.832] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:28.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension
+[2021-09-07 11:34:28.892] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:28.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension
+[2021-09-07 11:34:29.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-07 11:34:29.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-07 11:34:29.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 11:34:29.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-07 11:34:29.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 11:34:29.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-07 11:34:29.277] [exthost] [info] eager extensions activated
+[2021-09-07 11:34:29.281] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-07 11:34:29.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-07 11:34:29.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-07 11:34:29.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-07 11:34:29.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-07 11:34:29.344] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-07 11:34:29.390] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-07 11:34:29.390] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.vscode-pylance-2021.9.0/dist/extension.bundle.js
+[2021-09-07 11:34:29.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-07 11:34:29.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-07 11:34:40.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 11:34:40.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-07 11:34:40.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 11:34:40.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-07 11:34:40.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 11:34:40.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-07 11:35:50.172] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:35:50.172] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 11:47:20.712] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:47:20.712] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 11:47:35.999] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:47:36.000] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:117377
+	at async t.provideDefinition (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:165424)
+[2021-09-07 11:50:05.478] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:50:05.478] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 11:52:04.254] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:52:04.254] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 11:53:53.074] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:53:53.074] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 11:54:01.012] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:54:01.012] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 11:54:24.206] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:54:24.206] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 11:55:37.536] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:55:37.536] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 11:55:37.787] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:55:37.787] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 11:56:41.612] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:56:41.612] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 11:58:55.364] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 11:58:55.364] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 12:00:46.734] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:00:46.734] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:00:47.910] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:00:47.910] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:01:47.111] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:01:47.111] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:01:53.622] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:01:53.622] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:02:01.065] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:02:01.065] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:04:40.148] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:04:40.148] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:10:19.711] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:10:19.711] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:11:38.194] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:11:38.194] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:11:56.431] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:11:56.431] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:13:43.327] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:13:43.327] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 12:18:02.442] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:18:02.442] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:18:09.214] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:18:09.214] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:19:55.363] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:19:55.363] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 12:19:57.467] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:19:57.467] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:20:48.455] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 12:21:07.801] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:21:07.802] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:21:47.162] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:21:47.162] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:04.741] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:04.741] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:13.989] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:13.989] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:14.884] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:14.884] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:33.765] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:33.765] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:42.806] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:42.806] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:22:43.278] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:22:43.278] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:23:38.454] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:23:38.454] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 12:23:41.900] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:23:41.900] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:23:54.277] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:23:54.277] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:23:54.332] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:23:54.332] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:24:04.155] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:24:04.155] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:24:13.621] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:24:13.621] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:25:16.882] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:25:16.882] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:29:07.433] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:29:07.433] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:29:22.279] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:29:22.279] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:29:33.632] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:29:33.632] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:29:37.058] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:29:37.058] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:30:22.991] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:30:22.991] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 12:33:24.041] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:24.041] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:34.071] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:34.071] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:36.581] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:36.581] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:37.628] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:37.628] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:38.249] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:38.249] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:46.397] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:46.397] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:33:58.754] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:33:58.754] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:34:38.971] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:34:38.971] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:34:49.548] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:34:49.548] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:37:33.392] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:37:33.392] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:39:07.547] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:39:07.548] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 12:43:54.971] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:43:54.971] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:48:25.284] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:48:25.284] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:49:24.829] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:49:24.829] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:54:09.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-07 12:54:09.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-09-07 12:57:04.018] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:57:04.018] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 12:57:08.740] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 12:57:08.742] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:06:46.373] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:06:46.373] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:117377
+	at async t.provideDefinition (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:165424)
+[2021-09-07 13:10:14.937] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:14.937] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:10:23.195] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:23.195] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:10:28.681] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:28.681] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:10:31.961] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:31.961] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:10:32.263] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:32.263] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:10:32.482] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:10:32.482] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:11:59.256] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:11:59.256] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:17:45.502] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:17:45.502] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:18:22.269] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 13:21:16.291] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:21:16.292] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:30:24.187] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:30:24.187] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:118927
+	at async w.provideDocumentHighlights (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:167255)
+[2021-09-07 13:31:11.249] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:31:11.249] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 13:31:11.387] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:31:11.387] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 13:32:58.259] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:32:58.259] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 13:36:21.729] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:36:21.729] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 13:37:50.585] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:37:50.585] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 13:38:56.572] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:38:56.572] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:39:21.408] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:39:21.408] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 13:39:25.278] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:39:25.278] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 13:43:23.984] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:43:23.985] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:45:29.174] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:45:29.174] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 13:48:24.311] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:48:24.311] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:48:24.506] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:48:24.506] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:49:09.647] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:49:09.648] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 13:51:06.367] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:51:06.367] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 13:55:58.578] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 13:55:58.578] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 14:00:23.295] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:00:23.295] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:00:24.088] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:00:24.088] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:00:43.701] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:00:43.701] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:00:53.583] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:00:53.583] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:00:55.074] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:00:55.074] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:01:31.873] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:01:31.873] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:02:05.477] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:02:05.477] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:02:21.397] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:02:21.397] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:02:29.364] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:02:29.364] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:02:35.162] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:02:35.162] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:05:32.140] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:05:32.140] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:05:32.338] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:05:32.338] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:05:36.369] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:05:36.369] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:05:47.179] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:05:47.179] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 14:10:15.400] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:10:15.400] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:20:37.362] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:20:37.362] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:21:22.702] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:21:22.702] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:21:39.277] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:21:39.277] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:21:48.077] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:21:48.077] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:22:00.980] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:22:00.980] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:22:04.076] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:22:04.076] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:24:41.914] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:24:41.914] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:24:57.206] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:24:57.206] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:25:02.899] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:25:02.900] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:28:30.231] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:28:30.231] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:28:30.301] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:28:30.301] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:28:44.508] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:28:44.508] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:30:50.167] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:30:50.167] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:31:08.705] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:31:08.705] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:31:08.981] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:31:08.981] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:31:09.287] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:31:09.288] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:31:20.336] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:31:20.336] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:31:20.643] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:31:20.643] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:35:45.882] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:35:45.882] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:36:15.593] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:36:15.593] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:36:32.028] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:36:32.028] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:36:45.572] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:36:45.572] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 14:41:12.274] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:41:12.274] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 14:41:15.444] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:41:15.444] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:42:04.606] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:42:04.606] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:42:06.856] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:42:06.856] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:42:47.088] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:42:47.089] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:42:49.017] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:42:49.017] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:43:37.575] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:37.575] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:43:38.188] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:38.188] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:43:45.272] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:45.272] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 14:43:52.529] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:52.529] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:43:55.697] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:55.698] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:43:55.890] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:43:55.890] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:44:06.452] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:44:06.453] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 14:44:30.765] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:44:30.765] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:44:32.412] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:44:32.412] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:44:54.339] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:44:54.339] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:45:03.727] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:45:03.727] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:45:04.523] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:45:04.523] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:45:06.707] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:45:06.707] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:45:46.586] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:45:46.586] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:51:33.551] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:51:33.551] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:40.275] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:40.275] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:40.952] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:40.952] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:41.469] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:41.469] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:41.778] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:41.779] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:45.513] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:45.513] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:52:51.984] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:52:51.984] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:54:11.557] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:54:11.557] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:54:42.924] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:54:42.924] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:54:54.899] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:54:54.900] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:55:10.434] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:55:10.434] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:55:15.556] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:55:15.556] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:55:24.854] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:55:24.854] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 14:55:26.646] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 14:55:26.647] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:04:24.090] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:04:24.090] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 15:08:38.218] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:08:38.218] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:10:02.335] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:10:02.336] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:10:04.534] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:10:04.534] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:10:14.800] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:10:14.800] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:10:17.334] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:10:17.334] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:10:39.576] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:10:39.576] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:11:19.860] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:11:19.860] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:12:14.225] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:12:14.225] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:13:16.080] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:13:16.080] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:13:40.701] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:13:40.701] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:14:39.555] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:14:39.555] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:15:01.353] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:15:01.353] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:15:03.661] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:15:03.661] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:15:06.834] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:15:06.834] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:15:32.661] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:15:32.661] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:15:46.347] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:15:46.347] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 15:16:19.860] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:16:19.860] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:18:33.662] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:18:33.662] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 15:19:05.619] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:19:05.619] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:19:06.341] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:19:06.341] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:21:35.767] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:21:35.767] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:21:45.446] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:21:45.446] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:21:58.070] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:21:58.070] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:22:38.928] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:22:38.928] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 15:22:49.197] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:22:49.197] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:23:11.595] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:23:11.595] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:23:12.182] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:23:12.182] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:23:33.020] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:23:33.020] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:23:34.243] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:23:34.244] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:20.187] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:24:20.187] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:23.025] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:24:23.025] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:24.198] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:24:24.198] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:24.603] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:24:24.603] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:25.586] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:24:25.586] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:24:44.108] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:24:44.108] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:25:10.181] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:25:10.181] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:26:11.319] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:26:11.319] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:27:02.951] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:27:02.951] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 15:27:03.820] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:27:03.820] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 15:29:18.251] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:29:18.251] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:30:43.193] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:30:43.194] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-09-07 15:34:34.221] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:34:34.221] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119981
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:34:44.780] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:34:44.780] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:38:42.472] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:38:42.472] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:38:53.921] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:38:53.921] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:39:42.449] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:39:42.449] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:41:01.716] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:41:01.716] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:122854
+	at async S.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-09-07 15:44:03.926] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:44:03.926] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:44:08.597] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:44:08.597] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:44:10.973] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:44:10.973] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:44:51.563] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:44:51.563] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:45:17.067] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:45:17.067] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:45:28.283] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:45:28.283] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:45:28.330] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:45:28.330] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:46:10.270] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:46:10.270] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:46:31.550] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:46:31.550] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:117377
+	at async t.provideDefinition (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:165424)
+[2021-09-07 15:53:09.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-07 15:53:09.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-07 15:53:09.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-07 15:53:09.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-07 15:53:09.759] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-07 15:53:09.778] [exthost] [error] Activating extension vscode.npm failed due to an error:
+[2021-09-07 15:53:09.778] [exthost] [error] Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8805
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8753)
+	at E.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32208)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:29858)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-09-07 15:53:10.015] [exthost] [info] extension host started
+[2021-09-07 15:53:10.015] [exthost] [info] Skipping acquiring lock for /home/samu/.config/Code/User/workspaceStorage/71e19d98bddd9f38ee2ada7c8b152443.
+[2021-09-07 15:53:10.036] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-07 15:53:10.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension
+[2021-09-07 15:53:10.093] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-09-07 15:53:10.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-toolsai.jupyter-2021.8.2031190714/out/client/extension
+[2021-09-07 15:53:10.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-07 15:53:10.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-07 15:53:10.242] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-07 15:53:10.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-07 15:53:10.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":false,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-07 15:53:10.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-07 15:53:10.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 15:53:10.302] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-07 15:53:10.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-07 15:53:10.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-07 15:53:10.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 15:53:10.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-09-07 15:53:10.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 15:53:10.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-09-07 15:53:10.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-09-07 15:53:10.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-09-07 15:53:10.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-09-07 15:53:10.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2021-09-07 15:53:10.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-09-07 15:53:10.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-07 15:53:10.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-09-07 15:53:10.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-09-07 15:53:10.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-07 15:53:10.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-07 15:53:10.593] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-09-07 15:53:10.593] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/samu/.vscode/extensions/ms-python.vscode-pylance-2021.9.0/dist/extension.bundle.js
+[2021-09-07 15:53:10.665] [exthost] [info] eager extensions activated
+[2021-09-07 15:53:10.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-07 15:53:10.682] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-07 15:53:10.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-07 15:53:10.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-07 15:53:10.777] [exthost] [info] exiting with code 0
+[2021-09-07 15:53:16.930] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:53:16.930] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:115335
+	at async g.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-09-07 15:53:18.786] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:53:18.786] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:462843)
+	at p (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:465507)
+	at async $.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:176917)
+[2021-09-07 15:54:08.170] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:54:08.170] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:54:08.337] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:54:08.337] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:54:08.377] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:54:08.377] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:56:17.544] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:56:17.544] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:131907)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:59:137245)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:119903
+	at async l.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-09-07 15:56:35.042] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:56:35.042] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:56:35.322] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:56:35.322] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:56:35.505] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:56:35.505] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:59:04.070] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:59:04.070] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:59:14.291] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:59:14.291] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:59:14.768] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:59:14.768] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-09-07 15:59:23.336] [exthost] [error] [ms-python.python] provider FAILED
+[2021-09-07 15:59:23.336] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:155142)
+	at _.handleFailedRequest (/home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:154993)
+	at /home/samu/.vscode/extensions/ms-python.python-2021.9.1191016588/out/client/extension.js:9:114543
+	at async $.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
